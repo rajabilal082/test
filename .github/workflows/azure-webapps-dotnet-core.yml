@@ -33,7 +33,7 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  build-prd:
     runs-on: ubuntu-latest
 
     steps:
@@ -66,13 +66,13 @@ jobs:
           name: .net-app
           path: ${{env.DOTNET_ROOT}}/myapp
 
-  deploy:
+  deploy-prd:
     permissions:
       contents: none
     runs-on: ubuntu-latest
-    needs: build
+    needs: build-prd
     environment:
-      name: 'Development'
+      name: 'Production'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
