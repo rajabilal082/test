@@ -1,0 +1,6 @@
+C:\Users\rajab\OneDrive\Desktop\test\FirstAzureAppTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\rajab\OneDrive\Desktop\test\FirstAzureAppTests\obj\Debug\net6.0\FirstAzureAppTests.csproj.AssemblyReference.cache
+C:\Users\rajab\OneDrive\Desktop\test\FirstAzureAppTests\obj\Debug\net6.0\FirstAzureAppTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajab\OneDrive\Desktop\test\FirstAzureAppTests\obj\Debug\net6.0\FirstAzureAppTests.AssemblyInfoInputs.cache
+C:\Users\rajab\OneDrive\Desktop\test\FirstAzureAppTests\obj\Debug\net6.0\FirstAzureAppTests.AssemblyInfo.cs
+C:\Users\rajab\OneDrive\Desktop\test\FirstAzureAppTests\obj\Debug\net6.0\FirstAzureAppTests.csproj.CoreCompileInputs.cache
