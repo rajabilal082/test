@@ -1,4 +1,3 @@
-C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\bin\Debug\net6.0\appsettings.json
 C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\bin\Debug\net6.0\FirstAzureApp.staticwebassets.runtime.json
 C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\bin\Debug\net6.0\FirstAzureApp.exe
@@ -29,3 +28,4 @@ C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\obj\Debug\net6.0\refint\First
 C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\obj\Debug\net6.0\FirstAzureApp.pdb
 C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\obj\Debug\net6.0\FirstAzureApp.genruntimeconfig.cache
 C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\obj\Debug\net6.0\ref\FirstAzureApp.dll
+C:\Users\rajab\OneDrive\Desktop\test\FirstAzureApp\bin\Debug\net6.0\appsettings.Production.json
